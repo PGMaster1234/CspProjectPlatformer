@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../BackgroundColorAI/.idea/BackgroundColorAI.iml" filepath="$PROJECT_DIR$/../BackgroundColorAI/.idea/BackgroundColorAI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BattleGrounds/.idea/BattleGrounds.iml" filepath="$PROJECT_DIR$/../BattleGrounds/.idea/BattleGrounds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../BeaverworksCodingAssignments/.idea/BeaverworksCodingAssignments.iml" filepath="$PROJECT_DIR$/../BeaverworksCodingAssignments/.idea/BeaverworksCodingAssignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Bomberman/.idea/Bomberman.iml" filepath="$PROJECT_DIR$/../Bomberman/.idea/Bomberman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Colors/.idea/Colors.py.iml" filepath="$PROJECT_DIR$/../Colors/.idea/Colors.py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CspProjectPlatformer.iml" filepath="$PROJECT_DIR$/.idea/CspProjectPlatformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FirstAITest/.idea/FirstAITest.iml" filepath="$PROJECT_DIR$/../FirstAITest/.idea/FirstAITest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Framework/.idea/Framework.iml" filepath="$PROJECT_DIR$/../Framework/.idea/Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NewVersionTest/.idea/NewVersionTest.iml" filepath="$PROJECT_DIR$/../NewVersionTest/.idea/NewVersionTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PhysicsSignProposal/.idea/PhysicsSignProposal.iml" filepath="$PROJECT_DIR$/../PhysicsSignProposal/.idea/PhysicsSignProposal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TicTacToe/.idea/TicTacToe.iml" filepath="$PROJECT_DIR$/../TicTacToe/.idea/TicTacToe.iml" />
+    </modules>
+  </component>
+</project>

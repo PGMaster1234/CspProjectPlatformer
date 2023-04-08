@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.10 (CspProjectPlatformer)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="NewVersionTest" />
+    <orderEntry type="module" module-name="BattleGrounds" />
+    <orderEntry type="module" module-name="TicTacToe" />
+    <orderEntry type="module" module-name="BackgroundColorAI" />
+    <orderEntry type="module" module-name="FirstAITest" />
+    <orderEntry type="module" module-name="BeaverworksCodingAssignments" />
+    <orderEntry type="module" module-name="PhysicsSignProposal" />
+    <orderEntry type="module" module-name="Colors.py" />
+    <orderEntry type="module" module-name="Framework" />
+    <orderEntry type="module" module-name="Bomberman" />
+  </component>
+</module>
